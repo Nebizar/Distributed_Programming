@@ -1,0 +1,31 @@
+4 - sekwencyjnie
+
+real	0m0.008s
+user	0m0.004s
+sys	0m0.004s
+
+mpi
+real	0m0.684s
+user	0m1.537s
+sys	0m1.117s
+
+5-sek
+real	0m23.561s
+user	0m23.540s
+sys	0m0.012s
+
+mpi
+real	0m7.053s
+user	0m50.589s
+sys	0m2.431s
+
+6-sek
+real	13m29.840s
+user	13m29.329s
+sys	0m0.220s
+
+mpi
+real	1m39.424s
+user	11m43.878s
+sys	0m15.471s
+
